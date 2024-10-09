@@ -1,5 +1,5 @@
 # hyprland-wallpaper-changer
-Basic script to change wallpaper on Hyprland.
+Basic script to change wallpaper on Hyprland using Hyprpaper.
 
 You should put your wallpapers on ~/wallpapers 
 
