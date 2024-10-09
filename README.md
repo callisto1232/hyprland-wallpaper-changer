@@ -10,4 +10,5 @@ git clone https://github.com/callisto1232/hyprland-wallpaper-changer.git
 cd hyprland-wallpaper-changer
 chmod +x wallpaper.sh  
 <pre>
+  
 Use with ./wallpaper.sh 
